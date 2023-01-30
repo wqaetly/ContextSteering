@@ -22,6 +22,8 @@ The inspiration for this project was due to a [Devlog](https://www.youtube.com/w
 
 Context steering involves defining multiple behaviours on an entity (aka. GameObject), combining them, and producing a single output vector that represents a direction that is statistically good for the entity to move in. This allows us to define many discrete simplistic behaviours that when combined can produce seemingly complex movement.
 
+![sample](https://user-images.githubusercontent.com/35335061/215528475-d5053d5f-c12c-4126-8f23-ebf41a2e5c90.gif)
+
 ## Sources
 - Game AI 2 Chapter 18: Behavior-Driven steering at the macro scale
     by Andrew Fray
